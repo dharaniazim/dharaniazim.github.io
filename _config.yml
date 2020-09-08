@@ -97,14 +97,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Chemistry intern at Ten63 Therapeutics"
   location         : "Dallas, Texas"
-  email            :
+  email            : "dharaniazim@gmail.com"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url: "https://twitter.com/Azim_Dharani"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
