@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Azim Dharani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Computational Chemistry intern at Ten63 Therapeutics"
   location         : "Dallas, Texas"
   email            : "dharaniazim@gmail.com"
@@ -110,7 +110,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/dharaniazim"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
