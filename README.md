@@ -1,5 +1,8 @@
 ## Welcome to Azim's blog
 
+### About Me
+Azim is a computational chemistry intern working at Ten63 Therapeutics, a biotech startup focused on trying to develop novel drugs for the most formidable pharmaseutical targets. He recently graduated with a B.S. in Chemistry from Duke University, where he converted Disulfiram, an anti-alcoholism drug, into a anti-cancer drug that bound copper to kill agressive prostate cancer cells. Through this work, Azim has recieved several awards including a Goldwater scholarship, American Chemical Society (ACS) award for undergraduate inorganic research, and an undergraduate fellowship from the American Association of Cancer Research (AACR).  
+
 You can use the [editor on GitHub](https://github.com/dharaniazim/dharaniazim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
